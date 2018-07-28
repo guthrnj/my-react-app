@@ -15,10 +15,31 @@ a {
   font-weight: 800;
 }
 
-.hero{
-  background: url('../images/maphero.png');
-  height: 920px;
+.Hero {
+  background: url('https://stmed.net/sites/default/files/architecture-wallpapers-28389-9467834.jpg');
+  height: 900px;
   background-size: cover;
-  background-position: centre;
+  background-position: center;
+}
+
+.HeroGroup {
+  margin: 0 auto 0 auto;
+  max-width: 500px;
+  padding: 150px 50px;
+  text-align: left;
+}
+
+.hero h1 {
+  margin: 0;
+  color: white;
+  font-size: 60px;
+  line-height: 1.2;
+}
+
+.hero p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 30px;
+  line-height: 1.5;
 
 }
+

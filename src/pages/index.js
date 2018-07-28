@@ -4,8 +4,8 @@ import Link from 'gatsby-link'
 const IndexPage = () => (
   
   <div>
-    <div className="hero">
-      <div className="heroGroup">
+    <div className="Hero">
+      <div className="HeroGroup">
         <h1>Currated guides</h1>
         <p>Local Guides, Currated maps, Unique experiences</p>
         <p>Sending you somewhere great.</p>
